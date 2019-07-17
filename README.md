@@ -8,9 +8,9 @@ Estimate of time needed to complete: 2hrs
 
 Start time: 9:30 Am
 
-Finish time:
+Finish time: 11:00 am
 
-Actual time needed to complete:
+Actual time needed to complete: 1:30 hr
 
 ## Collaborative Awknoledgement
 
